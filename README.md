@@ -1,4 +1,4 @@
-<h1>LinkedIn Ad Blocker Extension</h1>
+<h1><b>LinkedIn Ad Blocker Extension</b></h1>
 <p>This browser extension blocks advertisements on LinkedIn to provide a cleaner browsing experience.</p>
 
 <h2><b>Installation</b></h2>
